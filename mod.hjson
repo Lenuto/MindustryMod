@@ -1,0 +1,8 @@
+name: "MindustryMod"
+displayName: "A Mindustry Mod"
+author: "Lenuto"
+description: "Blank"
+version: "0.1"
+minGameVersion: "149"
+dependencies: [ ]
+hidden: false
